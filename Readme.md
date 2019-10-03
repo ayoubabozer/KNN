@@ -2,7 +2,7 @@
 # KNN Classification
 [WIKI](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) - In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
 
-in this project i will do simple exploration on an artificialy data,  
+in this project i will do simple exploration on an artificially data,  
 then the goal will be to evaluate use the KNN model to predict target class of the data set.
 
 ## Getting Started
